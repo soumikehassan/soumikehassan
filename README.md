@@ -80,7 +80,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/soumikehassan/soumikehassan/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;" />
+  ![Snake animation](https://raw.githubusercontent.com/soumikehassan/soumikehassan/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 
