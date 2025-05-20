@@ -20,7 +20,7 @@
 - 🔭 I'm currently working on **Bayesian variable selection for survival analysis on dengue data**
 - 🌱 I'm currently learning **Bayesian Neural Networks, Pyro & Probabilistic Programming**
 - 👯 I'm looking to collaborate on **ML, NLP, Public Health, or GNN-based projects**
-- 📄 Know about my work: [Portfolio Website](https://yourwebsite.com)
+- 📄 Know about my work: [Portfolio Website](https://sites.google.com/view/soumikehasan/)
 - 💬 Ask me about **Bayesian methods, NLP, GNN, image segmentation**
 - 📫 How to reach me: **md.soumikehassan@gmail.com**
 - ⚡ Fun fact: I'm obsessed with making data-driven stories 🧠📊
