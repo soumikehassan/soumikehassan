@@ -79,9 +79,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/soumikehassan/soumikehassan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation of GitHub contribution grid" />
-</div>
+
 
 
 <div align="center">
